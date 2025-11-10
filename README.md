@@ -22,6 +22,6 @@
 ---
 
 ### 📫 Let's Connect!
-- GitHub: [HauraArshaSyahadati](https://github.com/HauraArshaSyahadati)  
+- GitHub: [HauraArshaSyahadati](https://github.com/hauraarr)  
 - LinkedIn: [http://www.linkedin.com/in/haura-arsha-syahadati-b5b40a365](#)  
 - Email: haura@0697@gmail.com
