@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Haura Arsha Syahadati
 
-🎓 **Telkom University Student | UI/UX & Front-End Enthusiast*
+🎓 *Telkom University Student | UI/UX & Front-End Enthusiast*
 
 💡 Multimedia student exploring the world of web development and UI/UX design.
 💻 Currently learning HTML, CSS, JavaScript, and exploring Data Science basics.
