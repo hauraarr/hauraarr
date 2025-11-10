@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Haura Arsha Syahadati
 
-<!--
-**hauraarr/hauraarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Telkom University Student | UI/UX & Front-End Enthusiast*
 
-Here are some ideas to get you started:
+💡 Multimedia student exploring the world of web development and UI/UX design.
+💻 Currently learning HTML, CSS, JavaScript, and exploring Data Science basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+- **Languages:** Python, Golang, HTML, CSS, JavaScript, SQL, C# 
+- **Tools:** Figma, Visual Studio Code, Visual studio, Unity
+- **Interests:**  Front-End Development,Back-End Development, UI/UX
+
+---
+
+### 🌱 Currently Learning  
+- UI/UX Design Basics
+- Front-End Web Development
+- 
+
+---
+
+### 📫 Let's Connect!
+- GitHub: [HauraArshaSyahadati](https://github.com/HauraArshaSyahadati)  
+- LinkedIn: [http://www.linkedin.com/in/haura-arsha-syahadati-b5b40a365](#)  
+- Email: haura@0697@gmail.com
