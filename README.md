@@ -17,11 +17,11 @@
 ### 🌱 Currently Learning  
 - UI/UX Design Basics
 - Front-End Web Development
-- 
+- Back-End Web Development
 
 ---
 
 ### 📫 Let's Connect!
-- GitHub: [HauraArshaSyahadati](https://github.com/hauraarr)  
-- LinkedIn: [http://www.linkedin.com/in/haura-arsha-syahadati-b5b40a365](http://www.linkedin.com/in/haura-arsha-syahadati-b5b40a365)
+- GitHub: [Haura Arsha Syahadati](https://github.com/hauraarr)  
+- LinkedIn: [Haura Arsha Syahadati](http://www.linkedin.com/in/haura-arsha-syahadati-b5b40a365)
 - Email: haura0697@gmail.com
