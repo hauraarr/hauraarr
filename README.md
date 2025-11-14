@@ -8,7 +8,7 @@
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** Python, Golang, HTML, CSS, JavaScript, SQL, C# 
+- **Languages:** Python, Go,HTML, CSS, JavaScript, SQL, C# 
 - **Tools:** Figma, Visual Studio Code, Visual studio, Unity
 - **Interests:**  Front-End Development,Back-End Development, UI/UX
 
